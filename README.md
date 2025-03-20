@@ -6,6 +6,7 @@
 - Cursor Theme - [WhiteSur Cursors](https://github.com/vinceliuice/WhiteSur-cursors)
 - Hyprpanel install guide - [HyprPanel](https://hyprpanel.com/getting_started/installation.html)
 - Hyprland install guide - [Hyprland](https://wiki.hyprland.org/Getting-Started/Installation/)
+- Hyprlock theme based on [Catppuccin](https://github.com/catppuccin/hyprlock)
 - Terminal - [Kitty](https://github.com/kovidgoyal/kitty)
     - Kanagawa dragon theme from `kitten theme` with `#070809` as background
 - Font - JetBrainsMono Nerd Font
