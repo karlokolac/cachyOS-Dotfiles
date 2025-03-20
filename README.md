@@ -1,5 +1,9 @@
 # CachyOS Dotfiles
 
+![Image of desktop](assets/desktop.png)
+
+![Image of editor](assets/neovim.png)
+
 ### Links
 
 - GTK Theme - [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
